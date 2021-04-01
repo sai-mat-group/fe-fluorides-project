@@ -1,0 +1,77 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65882-ICSD
+_database_code_ICSD 65882
+_audit_creation_date 1990-12-27
+_audit_update_record 2012-08-01
+_chemical_name_common 'Potassium tetrafluoroferrate(III)'
+_chemical_formula_structural 'K (Fe F4)'
+_chemical_formula_sum 'F4 Fe1 K1'
+_exptl_crystal_density_diffrn 3.13
+_citation_title
+'Structural phase transitions of layer compounds K Fe F4, K TI F4, and K V F4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica Status Solidi A: Applied Research' 1989 115 149 156 PSSABA
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hidaka, M.'
+primary 'Zhou, Z.-Y.'
+primary 'Wanklyn, B.M.'
+_cell_length_a 7.608(1)
+_cell_length_b 7.767(2)
+_cell_length_c 12.272(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 725.17
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'P m 21 n'
+_space_group_IT_number 31
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x+1/2, y+1/2, -z'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Fe3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 2 a 0 0.2516(5) 0.2344(2) . 1.
+K2 K1+ 2 a 0 0.7524(5) 0.2279(2) . 1.
+K3 K1+ 2 a 0 0.0011(5) 0.7304(3) . 1.
+K4 K1+ 2 a 0 0.5025(5) 0.7231(3) . 1.
+Fe1 Fe3+ 4 b 0.2504(2) -.0008(2) 0.0009(1) . 1.
+Fe2 Fe3+ 4 b 0.2503(2) 0.2474(2) 0.5009(1) . 1.
+F1 F1- 2 a 0 0.0323(11) -.0347(7) . 1.
+F2 F1- 2 a 0 0.4794(16) -.0364(6) . 1.
+F3 F1- 4 b 0.2795(7) 0.2484(10) -.0013(5) . 1.
+F4 F1- 4 b 0.2053(8) 0.0045(11) 0.1510(4) . 1.
+F5 F1- 4 b 0.2992(8) -.0059(11) -.1501(5) . 1.
+F6 F1- 2 a 0 0.2201(7) 0.4679(11) . 1.
+F7 F1- 2 a 0 0.7862(11) 0.4647(13) . 1.
+F8 F1- 4 b 0.2825(7) -.0004(10) 0.4976(9) . 1.
+F9 F1- 4 b 0.2025(7) 0.2398(10) 0.6502(5) . 1.
+F10 F1- 4 b 0.2959(8) 0.2513(12) 0.3523(5) . 1.
+#End of TTdata_65882-ICSD

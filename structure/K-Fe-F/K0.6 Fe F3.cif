@@ -1,0 +1,83 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2603-ICSD
+_database_code_ICSD 2603
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-02-01
+_chemical_name_common 'Potassium iron fluoride (0.6/1/3)'
+_chemical_formula_structural 'K0.6 Fe F3'
+_chemical_formula_sum 'F3 Fe1 K0.6'
+_chemical_name_structure_type K1-xFeF3
+_exptl_crystal_density_diffrn 3.52
+_citation_title
+
+;
+Structure cristalline du bronze pseudo-quadratique K0.6 Fe F3: Transition
+pyrochlore-quadratique pour les composes K M M'6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1973 29 1654 1658 ACBCAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hardy, A.M.'
+primary 'Ferey, G.'
+_cell_length_a 12.750(2)
+_cell_length_b 12.637(2)
+_cell_length_c 3.986(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 642.23
+_cell_formula_units_Z 10
+_space_group_name_H-M_alt 'P b a 2'
+_space_group_IT_number 32
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2.4
+K1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Fe1 Fe2+ 2 b 0 0.5 0.501(9) 1.8 1.
+Fe2 Fe2+ 4 c 0.0763(4) 0.2135(4) 0.541(7) 1.6 1.
+Fe3 Fe2+ 4 c 0.7864(4) 0.0763(4) 0.541(7) 1.6 1.
+K1 K1+ 2 a 0 0 0 2.3 1.
+K2 K1+ 4 c 0.1729(9) 0.6729(9) 0.008(11) 4.4 1.
+F1 F1- 2 b 0 0.5 0.030(61) 5.9 1.
+F2 F1- 4 c 0.0734(18) 0.2067(18) 0.041(23) 3.8 1.
+F3 F1- 4 c 0.2785(14) 0.7783(14) 0.549(19) 2.1 1.
+F4 F1- 4 c 0.7935(17) 0.0734(18) 0.043(22) 3.8 1.
+F5 F1- 4 c 0.3502(14) 0.0065(13) 0.580(12) 1.9 1.
+F6 F1- 4 c 0.9934(13) 0.3497(14) 0.580(12) 1.9 1.
+F7 F1- 4 c 0.1372(15) 0.0728(14) 0.527(18) 2.5 1.
+F8 F1- 4 c 0.9281(14) 0.1374(15) 0.529(18) 2.5 1.
+#End of TTdata_2603-ICSD

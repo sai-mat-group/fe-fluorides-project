@@ -1,0 +1,98 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_183884-ICSD
+_database_code_ICSD 183884
+_audit_creation_date 2012-08-01
+_chemical_name_common 'Potassium iron fluoride (0.58/1/3) - Pbam'
+_chemical_formula_structural 'K0.58 Fe F3'
+_chemical_formula_sum 'F3 Fe1 K0.58'
+_exptl_crystal_density_diffrn 3.53
+_diffrn_ambient_temperature 270.
+_citation_title
+
+;
+Phase separation and phase transitions in multiferroic K0.58 Fe F3 with the
+tetragonal tungsten bronze structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2011 33 5440 5445 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Reisinger, S.A.'
+primary 'Leblanc, M.'
+primary 'Mercier, A.M.'
+primary 'Tang Chiu C.'
+primary 'Parker, J.E.'
+primary 'Morrison, F.D.'
+primary 'Lightfoot, P.'
+_cell_length_a 17.91907(4)
+_cell_length_b 17.91082(5)
+_cell_length_c 3.969330(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1273.94
+_cell_formula_units_Z 20
+_space_group_name_H-M_alt 'C m m m'
+_space_group_IT_number 65
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, z'
+10 '-x+1/2, y+1/2, z'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2.42
+K1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Fe1 Fe2+ 2 d 0 0 0.5 0.0034 1.
+Fe2 Fe2+ 2 c 0.5 0 0.5 0.0034 1.
+Fe3 Fe2+ 8 q 0.68097 0.10562 0.5 0.0039 1.
+Fe4 Fe2+ 8 q 0.10562 0.18096 0.5 0.0039 1.
+K1 K1+ 4 i 0 0.32804 0 0.026 1.
+K2 K1+ 4 g 0.82804 0 0 0.026 1.
+K3 K1+ 4 e 0.25 0.25 0 0.026 0.902
+F1 F1- 8 q 0.6443 0.2127 0.5 0.027 1.
+F2 F1- 8 q 0.2127 0.1443 0.5 0.027 1.
+F3 F1- 4 j 0 0.222 0.5 0.017 1.
+F4 F1- 4 h 0.722 0 0.5 0.017 1.
+F5 F1- 8 q 0.5741 0.0816 0.5 0.03 1.
+F6 F1- 8 q 0.0816 0.0741 0.5 0.03 1.
+F7 F1- 2 a 0 0 0 0.042 1.
+F8 F1- 2 b 0.5 0 0 0.042 1.
+F9 F1- 8 p 0.68515 0.10765 0 0.023 1.
+F10 F1- 8 p 0.10765 0.18515 0 0.023 1.
+#End of TTdata_183884-ICSD

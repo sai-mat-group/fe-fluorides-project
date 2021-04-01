@@ -1,0 +1,91 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237831-ICSD
+_database_code_ICSD 237831
+_audit_creation_date 2015-08-01
+_chemical_name_common 'Potassium diiron hexafluoride'
+_chemical_formula_structural 'K1.05 Fe2 F6'
+_chemical_formula_sum 'F6 Fe2 K1.05'
+_chemical_name_structure_type Bronze(tet)#TTB#K2.4W5O15
+_exptl_crystal_density_diffrn 3.47
+_diffrn_ambient_temperature 453.
+_citation_title
+
+;
+Phase transitions in fluoride K Fe2 F6 with tetragonal tungsten bronze
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Fluorine Chemistry' 2014 168 204 211 JFLCAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Gorev, M.V.'
+primary 'Flerov, I.N.'
+primary 'Tressaud, A.'
+primary 'Molokeev, M.S.'
+primary 'Kartashev, A.V.'
+primary 'Pogoreltsev, E.I.'
+primary 'Bayukov, O.A.'
+_cell_length_a 12.6735(3)
+_cell_length_b 12.6735(3)
+_cell_length_c 3.96848(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 637.41
+_cell_formula_units_Z 5
+_space_group_name_H-M_alt 'P 4/m b m'
+_space_group_IT_number 127
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y+1/2, -x+1/2, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x+1/2, y+1/2, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y+1/2, x+1/2, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x+1/2, y+1/2, z'
+14 'x+1/2, -y+1/2, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2.5
+K1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Fe1 Fe2+ 2 c 0.5 0 0.5 0.4(2) 1.
+Fe2 Fe2+ 8 j 0.2127(3) 0.0752(3) 0.5 0.40(15) 1.
+K1 K1+ 4 g 0.1715(3) 0.3285(3) 0 2.7(2) 1.
+K2 K1+ 2 a 0 0 0 0.5(5) 0.622(13)
+F1 F1- 8 j 0.1447(6) -0.0705(8) 0.5 1.50(17) 1.
+F2 F1- 4 h 0.2799(5) 0.2201(5) 0.5 1.50(17) 1.
+F3 F1- 8 j 0.3449(8) -0.0062(4) 0.5 1.50(17) 1.
+F4 F1- 2 d 0.5 0 0 1.50(17) 1.
+F5 F1- 8 i 0.2071(6) 0.0729(7) 0 1.5(17) 1.
+#End of TTdata_237831-ICSD

@@ -1,0 +1,76 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_28254-ICSD
+_database_code_ICSD 28254
+_audit_creation_date 1980-01-01
+_audit_update_record 2005-10-01
+_chemical_name_common 'Sodium iron fluoride (0.11/1/3)'
+_chemical_formula_structural 'Na0.11 Fe F3'
+_chemical_formula_sum 'F3 Fe1 Na0.11'
+_exptl_crystal_density_diffrn 3.59
+_citation_title
+
+;
+Sur de nouvelles series de bronzes fluores de composition Mx Fe F3 (M = Na,
+Rb, Tl)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1968 3 753 758 MRBUAC
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'de Pape, R.'
+primary 'Tressaud, A.'
+primary 'Portier, J.'
+_cell_length_a 5.372(2)
+_cell_length_b 5.372(2)
+_cell_length_c 5.372(2)
+_cell_angle_alpha 58.85(5)
+_cell_angle_beta 58.85(5)
+_cell_angle_gamma 58.85(5)
+_cell_volume 106.74
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'R -3 c R'
+_space_group_IT_number 167
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, -z+1/2, -y+1/2'
+2 '-z+1/2, -y+1/2, -x+1/2'
+3 '-y+1/2, -x+1/2, -z+1/2'
+4 'x+1/2, z+1/2, y+1/2'
+5 'z+1/2, y+1/2, x+1/2'
+6 'y+1/2, x+1/2, z+1/2'
+7 '-z, -x, -y'
+8 '-y, -z, -x'
+9 '-x, -y, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe2+ 2.89
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 2 a 0.25 0.25 0.25 . 0.11
+Fe1 Fe2+ 2 b 0 0 0 . 1.
+F1 F1- 6 e -.175(5) 0.675(5) 0.25 . 1.
+#End of TTdata_28254-ICSD

@@ -1,0 +1,79 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24415-ICSD
+_database_code_ICSD 24415
+_audit_creation_date 1981-12-31
+_audit_update_record 2014-08-01
+_chemical_name_common 'Ammonium iron iron(III) fluoride'
+_chemical_formula_structural '(N H4) Fe2 F6'
+_chemical_formula_sum 'H4 F6 Fe2 N1'
+_chemical_name_structure_type NH4Fe2F6
+_exptl_crystal_density_diffrn 3.05
+_citation_title
+
+;
+Crystal structure of the ordered pyrochlore N H4 Fe(II) Fe(III) F6 structural
+correlations with Fe2 F5 (H2 O)2 and its dehydration product Fe2 F5 H2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1981 40 1 7 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Ferey, G.'
+primary 'Leblanc, M.'
+primary 'de Pape, R.'
+_cell_length_a 7.045(4)
+_cell_length_b 7.454(4)
+_cell_length_c 10.116(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 531.23
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+Fe3+ 3
+Fe2+ 2
+F1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+N1 N3- 4 c 0.0028(6) 0.25 0.6208(5) . 1.
+Fe1 Fe3+ 4 a 0 0 0 . 1.
+Fe2 Fe2+ 4 c 0.2043(1) 0.25 0.2681(1) . 1.
+F1 F1- 4 c -.0627(2) 0.25 0.3398(1) . 1.
+F2 F1- 4 c 0.0633(2) 0.25 0.9671(2) . 1.
+F3 F1- 8 d 0.1267(2) 0.4901(1) 0.1668(1) . 1.
+F4 F1- 8 d 0.7655(1) 0.4368(2) 0.0825(1) . 1.
+#End of TTdata_24415-ICSD
